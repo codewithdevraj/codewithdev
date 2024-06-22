@@ -111,7 +111,7 @@ const About = ({data}) => {
             {data.owner.recent_projects.slice(0, 3).map((project, index) => (
               <div className="abt-proj" key={index}>
                 <img
-                  src="https://ucfd2f820770266aea7be6b22224.previews.dropboxusercontent.com/p/thumb/ACTrphDOAPd1P6bTpAIz7DxY9eOD-Hx6eejrc8BkQ0Ob7H3BiL4ASEAYTV2xMvyPEX0Zyiili7ihbMLiAdhaxpK9b1EGRw0sHCUFa_TfG-pOlwqx0hzypElCq6njfpAkT47vS-YKPYg_JGQU7IynBeiT0qOaMna0WMjk2wPjKPDb0wyMvGQtO3fyM40g4DVG4F4D0uxf2yGDUNFXMt3EiVRw-ErzpXWhd8z-RQwfMu6z-D-RRrnlvD70rYkLQ-hE2EuBAxbVHQB5lgOxXs7GC3v8ZlyvQFm0P7SYNmvwNwwKJZKQEQkf7lYsV8QvF8f4aSKxnU6e8BWJanygMMVPIlEn31kLX7Bly9Fm4T-q6tkqOGFRqKeERSosIrPkwgiSnmpTquex_qKZ8vig28_yg31f/p.jpeg"
+                  src="https://dl.dropboxusercontent.com/scl/fi/ea0p9acu0ll0mgygksz2b/girl-prgm.jpg?rlkey=j1b9xktcd671vnzjd3kxqwf6z&e=1&st=s5gr093g&dl=0"
                   alt=""
                 />
                 <div>

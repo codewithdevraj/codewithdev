@@ -133,19 +133,39 @@ const Footer = ({data}) => {
       <div className="f3">
         <h3>Follow us</h3>
         <div className="social">
-          <a href={data.links.sociallinks.facebook} target="_blank" rel="noreferrer">
+          <a
+            href={data.links.sociallinks.facebook}
+            target="_blank"
+            rel="noreferrer"
+          >
             <i className="fab fa-facebook"></i>
           </a>
-          <a href={data.links.sociallinks.twitter} target="_blank" rel="noreferrer">
+          <a
+            href={data.links.sociallinks.twitter}
+            target="_blank"
+            rel="noreferrer"
+          >
             <i className="fab fa-twitter"></i>
           </a>
-          <a href={data.links.sociallinks.instagram} target="_blank" rel="noreferrer">
+          <a
+            href={data.links.sociallinks.instagram}
+            target="_blank"
+            rel="noreferrer"
+          >
             <i className="fab fa-instagram"></i>
           </a>
-          <a href={data.links.sociallinks.linkedin} target="_blank" rel="noreferrer">
+          <a
+            href={data.links.sociallinks.linkedin}
+            target="_blank"
+            rel="noreferrer"
+          >
             <i className="fab fa-linkedin"></i>
           </a>
-          <a href={data.links.sociallinks.github} target="_blank" rel="noreferrer">
+          <a
+            href={data.links.sociallinks.github}
+            target="_blank"
+            rel="noreferrer"
+          >
             <i className="fab fa-github"></i>
           </a>
         </div>
@@ -156,7 +176,7 @@ const Footer = ({data}) => {
           <div className="f4l">
             <div className="f4fim">
               <img
-                src="https://ucfd2f820770266aea7be6b22224.previews.dropboxusercontent.com/p/thumb/ACTrphDOAPd1P6bTpAIz7DxY9eOD-Hx6eejrc8BkQ0Ob7H3BiL4ASEAYTV2xMvyPEX0Zyiili7ihbMLiAdhaxpK9b1EGRw0sHCUFa_TfG-pOlwqx0hzypElCq6njfpAkT47vS-YKPYg_JGQU7IynBeiT0qOaMna0WMjk2wPjKPDb0wyMvGQtO3fyM40g4DVG4F4D0uxf2yGDUNFXMt3EiVRw-ErzpXWhd8z-RQwfMu6z-D-RRrnlvD70rYkLQ-hE2EuBAxbVHQB5lgOxXs7GC3v8ZlyvQFm0P7SYNmvwNwwKJZKQEQkf7lYsV8QvF8f4aSKxnU6e8BWJanygMMVPIlEn31kLX7Bly9Fm4T-q6tkqOGFRqKeERSosIrPkwgiSnmpTquex_qKZ8vig28_yg31f/p.jpeg"
+                src="https://dl.dropboxusercontent.com/scl/fi/ea0p9acu0ll0mgygksz2b/girl-prgm.jpg?rlkey=j1b9xktcd671vnzjd3kxqwf6z&e=1&st=s5gr093g&dl=0"
                 alt=""
               />
             </div>
@@ -201,14 +221,20 @@ const Footer = ({data}) => {
           </div>
           <div className="f4r">
             <p>
-              <i className="fas fa-map-marker-alt"></i> <span>{data.address1}, {data.district}, {data.state}, {data.country}, {data.pincode} </span>
+              <i className="fas fa-map-marker-alt"></i>{" "}
+              <span>
+                {data.address1}, {data.district}, {data.state}, {data.country},{" "}
+                {data.pincode}{" "}
+              </span>
             </p>
             <p>
               <i className="fas fa-phone-alt"></i> {data.phone}
             </p>
             <p>
               <i className="fas fa-envelope"></i>{" "}
-              <a href={`mailto:${data ? data.email : "info@iamdevraj.me"}`}>{data.email}</a>
+              <a href={`mailto:${data ? data.email : "info@iamdevraj.me"}`}>
+                {data.email}
+              </a>
             </p>
           </div>
         </div>
