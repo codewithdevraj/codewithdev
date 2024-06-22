@@ -1,0 +1,255 @@
+{
+  "website":{
+    "name":"Code With Dev",
+    "description":"Code With Dev is a platform where developers can share their knowledge and learn from each other. We provide tutorials, articles, and resources to help developers improve their skills and stay up-to-date with the latest technologies.",
+    "imgurl":"https://ucf021a88d929f9e57966605e92d.previews.dropboxusercontent.com/p/thumb/ACRfkT5DXrJzSAWHHJ42ZKKndqecRcx--IcyhNP6CYmN49Nw-HBh3msajYCvOs49QvuUfKno7FNnRdmDAOW5Gpx9pZ6woxPcZ2LWwDxS3PX2OMxJ1j8aoWjmG1o9ICwy2jVWjISeBRRBpYH6Jt5duPsbBFLq1GOIvp8m000BZmWuUL7daIX3liMi2wXFdJgtDLuXbqCEWcs_8qh3eQaSuitVUJViqNinwmeayh-9OGiacRVu-NBf7AcXa6NfnWLCUZoW0riPQyLuZDZoXr3IlO7U5wCopoSJt8AqXy2GmT1S4yWXIKRhHYDvYHOG-gSV1g8LlAMvzYpEMotTthY7-y9riX8Or5-wylGNG86SGAOHUbYVtvSTM2HVbrthuCaomBMlEbOjL3JQQ2fKQ1cu43yt/p.png?is_prewarmed=true"
+  },
+  "company":"codewithdev",
+  "owner":{
+    "name": "Devraj",
+    "about": "Hello! I'm Devraj, the owner of Code-with-Dev, a platform where I share my journey, projects, and knowledge in the world of software development. As an aspiring Software Developer, I have a deep passion for coding and problem-solving. My expertise lies in both web development and machine learning, where I constantly strive to push the boundaries of what's possible.",
+    "role": "Software Developer",
+    "intro": "with a passion for coding and problem-solving. Proficient in Python and JavaScript, I'm dedicated to honing my skills in web development and machine learning. Whether it's building dynamic web applications or diving into data-driven insights, I'm continually expanding my expertise and striving to make an impact in the tech world.",
+    "skills": {
+      "Programming Languages": [
+        { "name": "Python", "level": "Advanced" },
+        { "name": "JavaScript", "level": "Intermediate" },
+        { "name": "Java", "level": "Intermediate" },
+        { "name": "C++", "level": "Intermediate" },
+        { "name": "HTML", "level": "Advanced" },
+        { "name": "CSS", "level": "Advanced" }
+      ],
+      "Web Development": [
+        { "name": "HTML", "level": "Advanced" },
+        { "name": "CSS", "level": "Advanced" },
+        { "name": "Bootstrap", "level": "Intermediate" },
+        { "name": "React", "level": "Intermediate" },
+        { "name": "Node.js", "level": "Intermediate" },
+        { "name": "Express", "level": "Intermediate" },
+        { "name": "Django", "level": "Intermediate" }
+      ],
+      "Machine Learning": [
+        { "name": "NumPy", "level": "Advanced" },
+        { "name": "Pandas", "level": "Advanced" },
+        { "name": "Matplotlib", "level": "Advanced" },
+        { "name": "Scikit-learn", "level": "Intermediate" },
+        { "name": "TensorFlow", "level": "Intermediate" },
+        { "name": "Keras", "level": "Intermediate" }
+      ],
+      "Databases": [
+        { "name": "MongoDB", "level": "Intermediate" },
+        { "name": "MySQL", "level": "Intermediate" },
+        { "name": "PostgreSQL", "level": "Intermediate" }
+      ],
+      "Tools": [
+        { "name": "Git", "level": "Intermediate" },
+        { "name": "VS Code", "level": "Advanced" },
+        { "name": "Jupyter Notebook", "level": "Advanced" },
+        { "name": "Postman", "level": "Advanced" }
+      ],
+      "Others": [
+        { "name": "Data Structures", "level": "Intermediate" },
+        { "name": "Algorithms", "level": "Intermediate" },
+        { "name": "RESTful APIs", "level": "Intermediate" },
+        { "name": "Docker", "level": "Intermediate" }
+      ]
+    },
+    "projects": [
+      {
+        "name": "Weather App",
+        "description": "A weather forecasting app that shows real-time weather updates for any location using the OpenWeather API.",
+        "techstack": [
+          { "tech": "html", "percent": "25" },
+          { "tech": "css", "percent": "25" },
+          { "tech": "javascript", "percent": "50" }
+        ],
+        "link": "https://weatherapp.com"
+      },
+      {
+        "name": "E-Commerce Platform",
+        "description": "A fully-featured e-commerce platform with user authentication, product listings, and a shopping cart.",
+        "techstack": [
+          { "tech": "react", "percent": "40" },
+          { "tech": "nodejs", "percent": "30" },
+          { "tech": "mongodb", "percent": "30" }
+        ],
+        "link": "https://ecommerceplatform.com"
+      },
+      {
+        "name": "Blog Website",
+        "description": "A personal blog website where users can post articles, comment on posts, and follow other users.",
+        "techstack": [
+          { "tech": "django", "percent": "50" },
+          { "tech": "html", "percent": "30" },
+          { "tech": "css", "percent": "20" }
+        ],
+        "link": "https://personalblog.com"
+      },
+      {
+        "name": "Project Management Tool",
+        "description": "A web application to manage and track project tasks, timelines, and team collaboration.",
+        "techstack": [
+          { "tech": "angular", "percent": "40" },
+          { "tech": "typescript", "percent": "40" },
+          { "tech": "sql", "percent": "20" }
+        ],
+        "link": "https://projectmanagementtool.com"
+      },
+      {
+        "name": "Photo Gallery",
+        "description": "An online photo gallery where users can upload, share, and view photos in various categories.",
+        "techstack": [
+          { "tech": "vuejs", "percent": "40" },
+          { "tech": "firebase", "percent": "30" },
+          { "tech": "css", "percent": "30" }
+        ],
+        "link": "https://photogallery.com"
+      },
+      {
+        "name": "Fitness Tracker",
+        "description": "A fitness tracking app that helps users log workouts, track progress, and set fitness goals.",
+        "techstack": [
+          { "tech": "swift", "percent": "50" },
+          { "tech": "firebase", "percent": "30" },
+          { "tech": "html", "percent": "20" }
+        ],
+        "link": "https://fitnesstracker.com"
+      },
+      {
+        "name": "Chat Application",
+        "description": "A real-time chat application with features like user authentication, chat rooms, and direct messaging.",
+        "techstack": [
+          { "tech": "nodejs", "percent": "40" },
+          { "tech": "socket.io", "percent": "40" },
+          { "tech": "html", "percent": "20" }
+        ],
+        "link": "https://chatapplication.com"
+      },
+      {
+        "name": "Online Learning Platform",
+        "description": "A platform that offers online courses with video lessons, quizzes, and progress tracking.",
+        "techstack": [
+          { "tech": "react", "percent": "40" },
+          { "tech": "graphql", "percent": "30" },
+          { "tech": "sql", "percent": "30" }
+        ],
+        "link": "https://onlinelearning.com"
+      },
+      {
+        "name": "Recipe Sharing Website",
+        "description": "A community-driven website where users can share and discover new recipes from around the world.",
+        "techstack": [
+          { "tech": "ruby", "percent": "40" },
+          { "tech": "rails", "percent": "40" },
+          { "tech": "html", "percent": "20" }
+        ],
+        "link": "https://recipes.com"
+      },
+      {
+        "name": "Travel Planner",
+        "description": "An application that helps users plan their trips, including booking flights, hotels, and creating itineraries.",
+        "techstack": [
+          { "tech": "angular", "percent": "40" },
+          { "tech": "nodejs", "percent": "30" },
+          { "tech": "mongodb", "percent": "30" }
+        ],
+        "link": "https://travelplanner.com"
+      }
+    ],
+    "recent_projects": [
+      {
+        "name": "Blog",
+        "description": "website for blog",
+        "link": "shop.iamdevraj.me",
+        "imgurl": "https://ucfd2f820770266aea7be6b22224.previews.dropboxusercontent.com/p/thumb/ACTrphDOAPd1P6bTpAIz7DxY9eOD-Hx6eejrc8BkQ0Ob7H3BiL4ASEAYTV2xMvyPEX0Zyiili7ihbMLiAdhaxpK9b1EGRw0sHCUFa_TfG-pOlwqx0hzypElCq6njfpAkT47vS-YKPYg_JGQU7IynBeiT0qOaMna0WMjk2wPjKPDb0wyMvGQtO3fyM40g4DVG4F4D0uxf2yGDUNFXMt3EiVRw-ErzpXWhd8z-RQwfMu6z-D-RRrnlvD70rYkLQ-hE2EuBAxbVHQB5lgOxXs7GC3v8ZlyvQFm0P7SYNmvwNwwKJZKQEQkf7lYsV8QvF8f4aSKxnU6e8BWJanygMMVPIlEn31kLX7Bly9Fm4T-q6tkqOGFRqKeERSosIrPkwgiSnmpTquex_qKZ8vig28_yg31f/p.jpeg"
+      },
+      {
+        "name": "Online Shopping",
+        "description": "website for online shopping",
+        "link": "shop.iamdevraj.me",
+        "imgurl": "https://ucfd2f820770266aea7be6b22224.previews.dropboxusercontent.com/p/thumb/ACTrphDOAPd1P6bTpAIz7DxY9eOD-Hx6eejrc8BkQ0Ob7H3BiL4ASEAYTV2xMvyPEX0Zyiili7ihbMLiAdhaxpK9b1EGRw0sHCUFa_TfG-pOlwqx0hzypElCq6njfpAkT47vS-YKPYg_JGQU7IynBeiT0qOaMna0WMjk2wPjKPDb0wyMvGQtO3fyM40g4DVG4F4D0uxf2yGDUNFXMt3EiVRw-ErzpXWhd8z-RQwfMu6z-D-RRrnlvD70rYkLQ-hE2EuBAxbVHQB5lgOxXs7GC3v8ZlyvQFm0P7SYNmvwNwwKJZKQEQkf7lYsV8QvF8f4aSKxnU6e8BWJanygMMVPIlEn31kLX7Bly9Fm4T-q6tkqOGFRqKeERSosIrPkwgiSnmpTquex_qKZ8vig28_yg31f/p.jpeg"
+      },
+      {
+        "name": "E-Learning",
+        "description": "website for online learning",
+        "link": "shop.iamdevraj.me",
+        "imgurl": "https://ucfd2f820770266aea7be6b22224.previews.dropboxusercontent.com/p/thumb/ACTrphDOAPd1P6bTpAIz7DxY9eOD-Hx6eejrc8BkQ0Ob7H3BiL4ASEAYTV2xMvyPEX0Zyiili7ihbMLiAdhaxpK9b1EGRw0sHCUFa_TfG-pOlwqx0hzypElCq6njfpAkT47vS-YKPYg_JGQU7IynBeiT0qOaMna0WMjk2wPjKPDb0wyMvGQtO3fyM40g4DVG4F4D0uxf2yGDUNFXMt3EiVRw-ErzpXWhd8z-RQwfMu6z-D-RRrnlvD70rYkLQ-hE2EuBAxbVHQB5lgOxXs7GC3v8ZlyvQFm0P7SYNmvwNwwKJZKQEQkf7lYsV8QvF8f4aSKxnU6e8BWJanygMMVPIlEn31kLX7Bly9Fm4T-q6tkqOGFRqKeERSosIrPkwgiSnmpTquex_qKZ8vig28_yg31f/p.jpeg"
+      },
+      {
+        "name": "Portfolio",
+        "description": "website for portfolio",
+        "link": "shop.iamdevraj.me",
+        "imgurl": "https://ucfd2f820770266aea7be6b22224.previews.dropboxusercontent.com/p/thumb/ACTrphDOAPd1P6bTpAIz7DxY9eOD-Hx6eejrc8BkQ0Ob7H3BiL4ASEAYTV2xMvyPEX0Zyiili7ihbMLiAdhaxpK9b1EGRw0sHCUFa_TfG-pOlwqx0hzypElCq6njfpAkT47vS-YKPYg_JGQU7IynBeiT0qOaMna0WMjk2wPjKPDb0wyMvGQtO3fyM40g4DVG4F4D0uxf2yGDUNFXMt3EiVRw-ErzpXWhd8z-RQwfMu6z-D-RRrnlvD70rYkLQ-hE2EuBAxbVHQB5lgOxXs7GC3v8ZlyvQFm0P7SYNmvwNwwKJZKQEQkf7lYsV8QvF8f4aSKxnU6e8BWJanygMMVPIlEn31kLX7Bly9Fm4T-q6tkqOGFRqKeERSosIrPkwgiSnmpTquex_qKZ8vig28_yg31f/p.jpeg"
+      },
+      {
+        "name": "Social Media",
+        "description": "website for social media",
+        "link": "shop.iamdevraj.me",
+        "imgurl": "https://ucfd2f820770266aea7be6b22224.previews.dropboxusercontent.com/p/thumb/ACTrphDOAPd1P6bTpAIz7DxY9eOD-Hx6eejrc8BkQ0Ob7H3BiL4ASEAYTV2xMvyPEX0Zyiili7ihbMLiAdhaxpK9b1EGRw0sHCUFa_TfG-pOlwqx0hzypElCq6njfpAkT47vS-YKPYg_JGQU7IynBeiT0qOaMna0WMjk2wPjKPDb0wyMvGQtO3fyM40g4DVG4F4D0uxf2yGDUNFXMt3EiVRw-ErzpXWhd8z-RQwfMu6z-D-RRrnlvD70rYkLQ-hE2EuBAxbVHQB5lgOxXs7GC3v8ZlyvQFm0P7SYNmvwNwwKJZKQEQkf7lYsV8QvF8f4aSKxnU6e8BWJanygMMVPIlEn31kLX7Bly9Fm4T-q6tkqOGFRqKeERSosIrPkwgiSnmpTquex_qKZ8vig28_yg31f/p.jpeg"
+      }
+    ],
+    "imgurl": "https://ucb0974e7e8ee8cb156bf31a9c2f.previews.dropboxusercontent.com/p/thumb/ACRLQns0-luLxPTV3aJ83WE8e5vA0tKstqNjAB69riY_klAp1IDCPYcKdpup_R8JvpHyYQ5vqMtzL_s0Y2S-XRah4FZzFA3T_-yKv6VYjfjn7NLYFswM0Jz3Um1sIWMtG4x8Z2TVC-vOPhniwGV9F5GPTdAskL4qvYCOENyF_nURDpunbNInfuf38YxsoQCh_ItIM_dS1Ru0Z39E9lN-aTN8Xa6UJeSYpFjG2iRZr-pIZgO7OZX8ZSnZz7f0eN65QTs8G3zJrDzPQYI1rbKTSmzo1oaUcyWo6TvkJKz29av0cgPOSgSYr4xAwPNVfKSbZgREEB_-8UbrqPcsqAyQss7bFzFv9o080IA0ifnFiHosT-QbnNHS23YVgY1BXP1aM3A/p.png"
+  },
+  "email":"main.codewithdev.com",
+  "phone":"6291388958",
+  "address1":"Chowk Road Dumraon",
+  "district":"Buxar",
+  "state":"Bihar",
+  "pincode":"802119",
+  "country":"India",
+  "logo":"https://codewithdev.com/logo.png",
+  "favicon":"https://codewithdev.com/favicon.png",
+  "links":{
+    "navlinks":{
+      "Home":"/home",
+      "About":"/about",
+      "Portfolio":"/portfolio",
+      "Blogs":"/blogs",
+      "Contacts":"/contacts"
+    },
+    "footerlinks":{
+      "List_1":{
+        "link11":"link11",
+        "link12":"link12",
+        "link13":"link13",
+        "link14":"link14",
+        "link15":"link15"
+      },
+      "List_2":{
+        "link21":"link21",
+        "link22":"link22",
+        "link23":"link23",
+        "link24":"link24",
+        "link25":"link25"
+      },
+      "List_3":{
+        "link31":"link31",
+        "link32":"link32",
+        "link33":"link33",
+        "link34":"link34",
+        "link35":"link35"
+      },
+      "List_4":{
+        "link41":"link41",
+        "link42":"link42",
+        "link43":"link43",
+        "link44":"link44",
+        "link45":"link45"
+      },
+      "List_5":{
+        "link51":"link51",
+        "link52":"link52",
+        "link53":"link53",
+        "link54":"link54",
+        "link55":"link55"
+      }
+    },
+    "sociallinks":{
+      "facebook":"https://facebook.com/codewithdev",
+      "twitter":"https://twitter.com/codewithdev",
+      "instagram":"https://instagram.com/codewithdev",
+      "linkedin":"https://linkedin.com/codewithdev",
+      "github":"https://github.com/codewithdev"
+    }
+  }
+}
